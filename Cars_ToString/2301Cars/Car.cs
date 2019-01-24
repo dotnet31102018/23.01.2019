@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace _2301Cars
 {
-    //[DebuggerDisplay("{brand} {(km*2)}")]
+    [DebuggerDisplay("{brand} {(km*2)}")]
     class Car
     {
         // --------------------------------------- DATA
